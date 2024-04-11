@@ -1,0 +1,6 @@
+@DBFIRST_HostAddress = http://localhost:5192
+
+GET {{DBFIRST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
